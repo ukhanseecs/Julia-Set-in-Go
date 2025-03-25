@@ -53,6 +53,3 @@ Example parameter combinations to try:
 
 A Julia set is a mathematical fractal obtained from complex number calculations. For each point on the complex plane, the algorithm tests whether the sequence z₁, z₂, z₃, ... (where zₙ₊₁ = zₙ² + c) remains bounded after many iterations. The constant c determines the shape of the particular Julia set.
 
-## License
-
-[Your license information]
