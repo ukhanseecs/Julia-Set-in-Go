@@ -2,6 +2,8 @@
 
 A Go application that generates beautiful Julia set fractal images.
 
+![Julia Set Example](julia.png)
+
 ## Overview
 
 This project provides a simple way to generate Julia set fractals with customizable parameters. Julia sets are mathematically generated fractals that produce intricate and beautiful patterns based on complex number calculations.
